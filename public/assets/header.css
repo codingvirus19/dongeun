@@ -130,6 +130,7 @@
   top: 0px;
   left: 0px;
   transform: translate(-133.6px, 60.8px);
+  z-index: 1;
   /*5.8, 화면밖넘어감 수정  */
 }
 

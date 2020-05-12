@@ -31,7 +31,6 @@ body {
   float: right;
   width: 89%;
   height: 80%;
-  /* z-index: -1; */
 }
 
 /* contents-header */
@@ -50,6 +49,7 @@ body {
   display: flex;
   align-items: center;
   margin-left: 5%;
+  z-index: 0;
 }
 
 .contents-header-title {
