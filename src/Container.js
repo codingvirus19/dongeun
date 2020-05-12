@@ -9,8 +9,10 @@ export default class Container extends React.Component {
     return (
       <div className="container">
         <Header />
-        <Sidebar />
-        <Contents />
+        <div className="sidebar-contents_container">
+          <Sidebar />
+          <Contents />
+        </div>
         <Footer />
       </div>
     );

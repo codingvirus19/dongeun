@@ -1,13 +1,13 @@
 /* footer*/
 .footer {
-  margin-top: 10px;
+  z-index: 2;
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
   width: 89%;
   right: 0px;
-  bottom: 0px;
+  bottom: 8%;
   float: right;
   height: auto;
-  height: 3%;
 }
