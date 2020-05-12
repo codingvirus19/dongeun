@@ -49,19 +49,21 @@
 /* contents-header */
 
 .contents-memo {
-  height: 80%;
+  height: 67%;
   width: 91%;
   display: inline-block;
   border: 0.5px solid black;
-  padding: 0 4%;
+  padding: 5% 4%;
 }
 
-.memo_container {
+.memo {
+  border: 0.4px solid rgb(170, 155, 155);
+  width: 220px;
+  height: 160px;
+  border-radius: 8px;
 }
 
-.container_memo-form {
-}
-
+/* 238x160 */
 /* @import url(https://fonts.googleapis.com/css?family=BenchNine:700);
 .snip1535 {
   background-color: #c47135;

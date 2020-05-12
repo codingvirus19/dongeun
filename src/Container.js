@@ -2,7 +2,6 @@ import React from "react";
 import Header from "./header/Header";
 import Sidebar from "./sidebar/Sidebar";
 import Contents from "./contents/Contents";
-import Footer from "./footer/Footer";
 
 export default class Container extends React.Component {
   render() {
@@ -13,7 +12,6 @@ export default class Container extends React.Component {
           <Sidebar />
           <Contents />
         </div>
-        <Footer />
       </div>
     );
   }

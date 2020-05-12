@@ -6,7 +6,7 @@ export default class Contents extends React.Component {
       <div className="contents-memo">
         <div className="memo_container">
           <form className="container_memo-form">
-            <input className="test" type="textarea"></input>
+            <input className="container_memo-form memo" type="textarea"></input>
           </form>
         </div>
         {/* <div>
