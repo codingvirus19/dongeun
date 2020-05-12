@@ -1,5 +1,9 @@
 /* footer*/
 .footer {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 89%;
   right: 0px;
   bottom: 0px;
